@@ -1,4 +1,4 @@
-# recommender-system
+
 # Recommender-System
  Almost all the applications we use today rely extensively on recommender systems to build user profilesand accordingly recommend items to buy/watch/read that matches their users’ interests.
  In this project, I built a recommender system that uses the users’ purchases history to:
